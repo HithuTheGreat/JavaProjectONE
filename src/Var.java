@@ -2,7 +2,7 @@ import javax.swing.*;
 
 public class Var {
     /*Standard Code Variables*/
-    public static String MyName = "Hiranji";
+    public static String MyName = "Hithaysha";
     public static int NameLength = MyName.length();
     public static int MaxNameLength = 16;
     public static int NumberOne = 12;
