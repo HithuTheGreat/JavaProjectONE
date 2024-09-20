@@ -15,7 +15,6 @@ public class Var {
     public static double DoubleClassStudentCount = 36.9;
     public static int NonFriendCount = MathsUtils.subInt(ClassStudentCount, FriendCount);
     public static double DoubleNonFriendCount = MathsUtils.subDouble(DoubleClassStudentCount, DoubleFriendCount);
-
     /*Print Code Variables*/
     public static String PeopleDatabaseRun =
             "The amount of People you know is " + Var.FriendCount + "\n" +
